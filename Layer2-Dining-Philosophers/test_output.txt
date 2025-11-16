@@ -1,0 +1,64 @@
+Philosopher 0 is thinking...
+Philosopher 1 picked LEFT chopstick.
+Philosopher 1 picked RIGHT chopstick.
+Philosopher 1 is EATING!
+Philosopher 3 put down chopsticks.
+Philosopher 3 is thinking...
+Philosopher 4 picked LEFT chopstick.
+Philosopher 4 is EATING!
+Philosopher 2 picked RIGHT chopstick.
+Philosopher 1 put down chopsticks.
+Philosopher 1 is thinking...
+Philosopher 2 picked LEFT chopstick.
+Philosopher 2 is EATING!
+Philosopher 0 picked RIGHT chopstick.
+Philosopher 4 put down chopsticks.
+Philosopher 4 is thinking...
+Philosopher 0 picked LEFT chopstick.
+Philosopher 0 is EATING!
+Philosopher 2 put down chopsticks.
+Philosopher 2 is thinking...
+Philosopher 3 picked LEFT chopstick.
+Philosopher 3 picked RIGHT chopstick.
+Philosopher 3 is EATING!
+Philosopher 3 put down chopsticks.
+Philosopher 3 is thinking...
+Philosopher 2 picked RIGHT chopstick.
+Philosopher 2 picked LEFT chopstick.
+Philosopher 2 is EATING!
+Philosopher 0 put down chopsticks.
+Philosopher 0 is thinking...
+Philosopher 1 picked LEFT chopstick.
+Philosopher 4 picked RIGHT chopstick.
+Philosopher 4 picked LEFT chopstick.
+Philosopher 4 is EATING!
+Philosopher 1 picked RIGHT chopstick.
+Philosopher 1 is EATING!
+Philosopher 3 picked LEFT chopstick.
+Philosopher 2 put down chopsticks.
+Philosopher 2 is thinking...
+Philosopher 4 put down chopsticks.
+Philosopher 4 is thinking...
+Philosopher 3 picked RIGHT chopstick.
+Philosopher 3 is EATING!
+Philosopher 4 picked RIGHT chopstick.
+Philosopher 1 put down chopsticks.
+Philosopher 1 is thinking...
+Philosopher 0 picked RIGHT chopstick.
+Philosopher 3 put down chopsticks.
+Philosopher 2 picked RIGHT chopstick.
+Philosopher 2 picked LEFT chopstick.
+Philosopher 2 is EATING!
+Philosopher 3 is thinking...
+Philosopher 4 picked LEFT chopstick.
+Philosopher 4 is EATING!
+Philosopher 2 put down chopsticks.
+Philosopher 2 is thinking...
+Philosopher 3 picked LEFT chopstick.
+Philosopher 4 put down chopsticks.
+Philosopher 4 is thinking...
+Philosopher 3 picked RIGHT chopstick.
+Philosopher 3 is EATING!
+Philosopher 0 picked LEFT chopstick.
+Philosopher 0 is EATING!
+
